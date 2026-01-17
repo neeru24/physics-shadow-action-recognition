@@ -49,6 +49,11 @@ physics-shadow-action-recognition/
 └── README.md          # Project documentation
 ```
 
+---
+
+## Screenshots
+<img width="1045" height="693" alt="image" src="https://github.com/user-attachments/assets/08da2200-61ab-4b2b-b1b6-39ea81c68dcd" />
+
 ## 🔬 Methodology (High Level)
 
 ### Shadow Detection
